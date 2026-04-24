@@ -24,7 +24,7 @@ Example:
 
 ```csv
 Name,Email
-Muhammad Rayan,muhammadrayan182@gmail.com 
+toqeer azam,toqeerazam.1545@gmail.com
 ```
 # Certificate Sender App
 
